@@ -1,8 +1,8 @@
-btnForest = querySelector('.btn-forest');
-btnDesert = querySelector('.btn-desert');
-btnLake = querySelector('.btn-lake');
-btnMountain = querySelector('.btn-mountain');
-btnSea = querySelector('.btn-sea');
+let btnForest = document.querySelector('.btn-forest');
+let btnDesert = document.querySelector('.btn-desert');
+let btnLake =  document.querySelector('.btn-lake');
+let btnMountain = document.querySelector('.btn-mountain');
+let btnSea = document.querySelector('.btn-sea');
 
 
 btnForest.addEventListener('click', function() {
